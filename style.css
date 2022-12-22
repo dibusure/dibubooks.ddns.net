@@ -11,6 +11,8 @@
     text-align: center;
 }
 
+
+
 .bookshelf {
     display: inline-block;
 }
@@ -71,4 +73,8 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 
 .bookshelf h2 {
     text-decoration: underline;
+}
+
+.title a {
+    color: #302119;
 }
